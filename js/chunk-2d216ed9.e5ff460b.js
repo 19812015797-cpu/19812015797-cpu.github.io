@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d216ed9"],{c50a:function(n,t,r){"use strict";r.r(t),r.d(t,"waitReturningList",(function(){return u}));var e=r("66df"),u=function(n){return Object(e["default"])({url:"work/returning/waitReturning",method:"get",params:n})}}}]);

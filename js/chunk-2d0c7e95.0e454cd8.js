@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7e95"],{5345:function(n,e,i){"use strict";i.r(e),i.d(e,"apiSupplierOnboardingList",(function(){return t}));var r=i("66df"),t=function(n){return Object(r["default"])({url:"work/supplier/getSupplierJoinList",method:"get",params:n})}}}]);

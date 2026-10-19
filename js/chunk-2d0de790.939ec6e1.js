@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0de790"],{8695:function(e,r,t){"use strict";t.r(r);var u=function(){var e=this,r=e._self._c;return r("OutsourceOrder",{attrs:{type:2}})},n=[],s=t("95e7"),c={name:"OutsourceOrdered",components:{OutsourceOrder:s["default"]}},o=c,d=t("2877"),a=Object(d["a"])(o,u,n,!1,null,null,null);r["default"]=a.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4a3b"],{"06fe":function(n,r,t){"use strict";t.r(r),t.d(r,"turnoverList",(function(){return o}));var e=t("66df"),o=function(n){return Object(e["default"])({url:"work/project/turnover",method:"get",params:n})}}}]);

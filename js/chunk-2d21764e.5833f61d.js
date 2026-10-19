@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21764e"],{c715:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n._self._c;return t("Icon",{staticClass:"font16 fwb orange",attrs:{type:"ios-alert-outline"}})},o=[],a=e("2877"),c={},l=Object(a["a"])(c,s,o,!1,null,null,null);t["default"]=l.exports}}]);

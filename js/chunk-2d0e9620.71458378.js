@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9620"],{"8cfe":function(n,o,t){t("b680"),n.exports={install:function(n,o,t){t.add("pxvw",(function(n){return"".concat((n.value/19.2).toFixed(4),"vw")})),t.add("fontpxvw",(function(n){return n.value+"px"}))}}}}]);
